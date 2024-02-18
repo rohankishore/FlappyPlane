@@ -3,11 +3,16 @@ import sys
 import pygame
 
 
+
 class Sounds:
     die: pygame.mixer.Sound
     hit: pygame.mixer.Sound
     point: pygame.mixer.Sound
     swoosh: pygame.mixer.Sound
+    if "win" in sys.platform:
+        path = f"assets/audio/background.wav"
+    else:
+        path = f"assets/audio/background.ogg"
     wing: pygame.mixer.Sound
 
     def __init__(self) -> None:
