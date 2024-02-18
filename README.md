@@ -1,26 +1,21 @@
-[FlapPyBird](https://sourabhv.github.io/FlapPyBird)
+[FlappyPlane](https://github.com/rohankishore/FlappyPlane)
 ===============
 
-A Flappy Bird Clone made using [python-pygame][pygame]
-
-> If you are in interested in the old one-file code for the game, you can [find it here][one-file-game]
-
-[pygame]: http://www.pygame.org
-[one-file-game]: https://github.com/sourabhv/FlapPyBird/blob/038359dc6122f8d851e816ddb3e7d28229d585e5/flappy.py
+### Forked from https://github.com/sourabhv/FlapPyBird
 
 
-Setup (as tested on MacOS)
----------------------------
+> DISCLAIMER: This is done just for entertainment purposes only. I DO NOT promote any act of terrorism / anti-nationalism. RIP to the Victims 💐
 
-1. Install Python 3 from [here](https://www.python.org/download/releases/) (or use brew/apt/pyenv)
+Download as EXE: https://github.com/sourabhv/FlapPyBird/blob/038359dc6122f8d851e816ddb3e7d28229d585e5/flappy.py
 
-2. Run `make init` (this will install pip packages, use virtualenv or something similar if you don't want to install globally)
 
-3. Run `make` to run the game. Run `DEBUG=True make` to see rects and coords
+## Attention to Detail
 
-4. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
+- Used the same plane as in the incident (Flight 11)
+- Altitude wind sounds
+- Allaahaakbaarrr and blast
+- Of course the buildings too
 
-5. Optionally run `make web` to run the game in the browser (`pygbag`).
 
 Notable forks
 -------------
@@ -29,11 +24,20 @@ Notable forks
 - [FlappyBird Model Predictive Control](https://github.com/philzook58/FlapPyBird-MPC)
 - [FlappyBird OpenFrameworks Port](https://github.com/TheLogicMaster/ofFlappyBird)
 - [FlappyBird On Quantum Computing](https://github.com/WingCode/QuFlapPyBird)
+- [FlappyPlane](https://github.com/rohankishore/FlappyPlane)
 
 Made something awesome from FlapPyBird? Add it to the list :)
 
 
-Demo
+Demo and Screenshots
 ----------
 
-https://user-images.githubusercontent.com/2307626/130682424-9254b32d-efe0-406e-a6ea-3fb625a2df5e.mp4
+https://github.com/rohankishore/FlappyPlane/assets/109947257/82ace1e6-8e99-4051-9b77-4c4789036cb6
+
+<hr>
+
+![image](https://github.com/rohankishore/FlappyPlane/assets/109947257/38dfd8dc-cdf4-4350-abf9-bb1abf6a62ba) ![image](https://github.com/rohankishore/FlappyPlane/assets/109947257/db25a473-a112-45da-8c1d-41f38701ca7f) ![image](https://github.com/rohankishore/FlappyPlane/assets/109947257/fca777a1-4bf7-4e0f-b221-5d28f58d6dfa)
+
+
+
+
