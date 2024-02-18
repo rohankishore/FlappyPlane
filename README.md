@@ -6,7 +6,7 @@
 
 > DISCLAIMER: This is done just for entertainment purposes only. I DO NOT promote any act of terrorism / anti-nationalism. RIP to the Victims 💐
 
-Download as EXE: https://github.com/sourabhv/FlapPyBird/blob/038359dc6122f8d851e816ddb3e7d28229d585e5/flappy.py
+Download as EXE: https://github.com/rohankishore/FlappyPlane/releases/tag/v1.0
 
 
 ## Attention to Detail
